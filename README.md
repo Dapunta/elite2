@@ -53,6 +53,7 @@ Install [Termux](https://f-droid.org/repo/com.termux_118.apk) terlebih dahulu
 
 ### Informasi
 - Author : [**Dapunta Khurayra X**](https://web.facebook.com/Dapunta.Khurayra.X)
+- Python : 3.11.x
 - Release : 01/01/2024
 - Last Update : 24/01/2024
 - Version : 2.0.0 ( Test Version )
